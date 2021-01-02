@@ -1,6 +1,6 @@
 = Servo Library for Arduino =
 
-This library allows an Arduino board to control RC servo motors.
+This library allows an Arduino board to control servo motors.
 
 == License ==
 
