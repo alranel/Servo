@@ -208,7 +208,7 @@ int Servo::readMicroseconds()
 
 bool Servo::attached()
 {
-  return servos[this->servoIndex].Pin.isActive;
+  return false;
 }
 
 #endif
